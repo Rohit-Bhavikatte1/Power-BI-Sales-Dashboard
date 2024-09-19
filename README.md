@@ -4,7 +4,7 @@
 
 ### Here in this Project i have uased chocolate sakes data.
 ### This Dashboard is fully Inertactable 
---- In This projects i have created Star schema in Power BI data Modeling.
---- Defined The DAX Measures.
---- Created seperate Bookmarks for Product And sales to view the Dashboard
---- Created Tooltip 
+- In This projects i have created Star schema in Power BI data Modeling.
+- Defined The DAX Measures.
+-  Created seperate Bookmarks for Product And sales to view the Dashboard.
+-  Created Tooltip.
